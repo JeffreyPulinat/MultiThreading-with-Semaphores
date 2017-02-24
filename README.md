@@ -11,7 +11,7 @@ FileSever test args[] before starting the threads.
 
 java FileServer #W [mode] 
  
-#W: Number of Writer Threads(from 1 to 9 writers)
+num of W: Number of Writer Threads(from 1 to 9 writers)
 mode (optional): F for FCFS ; R for Random ; L for LIFO
 if mode is not provided or accepted. R is default
 
